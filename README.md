@@ -1,0 +1,2 @@
+# tinder_face_classifier
+tinderにおける美人判定モデルの試行錯誤
