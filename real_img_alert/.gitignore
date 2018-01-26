@@ -6,3 +6,7 @@ img_from_twitter/
 Test/
 Train/
 face_dataset/
+with_dataset/
+beauty_extended/
+ugly_extended/
+
